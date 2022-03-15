@@ -2,6 +2,7 @@
 
 <p>Este é um pequeno projeto de estudo, feito para treinar os conhecimentos de CSS</p>
 
+![foto](https://user-images.githubusercontent.com/79489384/158280303-82113042-7a83-474e-9be3-2c1c8153f5d0.png)
 
 <hr>
 
